@@ -1,0 +1,4 @@
+const Theme =  'dark:bg-secondary bg-white drop-shadow-lg rounded p-6 space-y-6'
+
+
+export default Theme
